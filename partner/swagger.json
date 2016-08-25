@@ -2,7 +2,7 @@
     "swagger": "2.0",
     "info": {
         "title": "Zetland Partner API",
-        "description": "Integrate with our Partner API to allow your customers to become members of Zetland.\n\nThe production API is located on https://api.zetland.dk.\n",
+        "description": "Integrate with our Partner API to allow your customers to become members of Zetland.\n\nThe staging API is located on https://api-staging.zetland.dk.\n\nThe production API is located on https://api.zetland.dk.\n",
         "version": "1"
     },
     "host": "api-staging.zetland.dk",

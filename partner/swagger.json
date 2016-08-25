@@ -157,7 +157,7 @@
     "securityDefinitions": {
         "basic_authentication": {
             "type": "basic",
-            "description": "Please provide your partner ID as username, and our shared secret as password."
+            "description": "Please provide your partner ID as username, and our shared secret as password. Beside that, your IP must be whitelisted. We will make sure that your whitelisted IP's match your partner ID."
         }
     },
     "parameters": {
